@@ -1,0 +1,6 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+
+Search = <option name="breaker-warning-countdown-start-time" value="30.0" />
+Replace = <option name="breaker-warning-countdown-start-time" value="1200.0" />
+
+Description = Hiển thị đồng hồ nộ của boss trong 20 phút

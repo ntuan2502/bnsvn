@@ -1,0 +1,11 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_swordmaster.xml
+Search = <condition skill="160300" />
+Replace = <condition skill="160061" /> <result context-1="160061" context-ui-effect="key-change" control-mode="classic" /> <result context-1="160061" context-ui-effect="key-change" control-mode="bns" /> </decision> <decision> <condition skill="160060" /> <result context-1="160060" context-ui-effect="key-change" control-mode="classic" /> <result context-1="160060" context-ui-effect="key-change" control-mode="bns" /></decision> </layer> <layer> <decision> <condition skill="160300" />
+Search = <condition skill="160270" />
+Replace = <condition skill="160051" /> <result context-1="160051" context-ui-effect="key-change" control-mode="classic" /> <result context-1="160051" context-ui-effect="key-change" control-mode="bns" /> </decision> <decision> <condition skill="160050" /> <result context-1="160050" context-ui-effect="key-change" control-mode="classic" /> <result context-1="160050" context-ui-effect="key-change" control-mode="bns" /> </decision> </layer> <layer> <decision> <condition skill="160270" />
+Search = <result context-1="160270" control-mode="bns" />
+Replace = <result context-1="160270" control-mode="bns" />
+
+Description = BD 2. DC: Pé Tún#3843
+
+

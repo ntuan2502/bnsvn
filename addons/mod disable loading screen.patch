@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="loading-tip-refresh-cycle-duration" value="7" />
+Replace = <option name="loading-tip-refresh-cycle-duration" value="0" />
+Description = Vô hiệu hóa màn hình chờ

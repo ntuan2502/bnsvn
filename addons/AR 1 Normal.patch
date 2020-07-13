@@ -1,0 +1,26 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_archer.xml
+Search = <result context-3="211340" context-ui-effect="key-change" control-mode="classic" />
+Replace = <result context-3="211340" context-ui-effect="key-change" control-mode="classic" key-status="unpress" />
+Search = <result context-3="211340" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-3="211340" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Search = <result context-3="211341" context-ui-effect="key-change" control-mode="classic" />
+Replace = <result context-3="211341" context-ui-effect="key-change" control-mode="classic" key-status="unpress" />
+Search = <result context-3="211341" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-3="211341" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Search = <result context-3="211342" context-ui-effect="key-change" control-mode="classic" />
+Replace = <result context-3="211342" context-ui-effect="key-change" control-mode="classic" key-status="unpress" />
+Search = <result context-3="211342" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-3="211342" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Search = <result context-3="211343" context-ui-effect="key-change" control-mode="classic" />
+Replace = <result context-3="211343" context-ui-effect="key-change" control-mode="classic" key-status="unpress" />
+Search = <result context-3="211343" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-3="211343" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Search = <result context-3="211344" context-ui-effect="key-change" control-mode="classic" />
+Replace = <result context-3="211344" context-ui-effect="key-change" control-mode="classic" key-status="unpress" />
+Search = <result context-3="211344" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-3="211344" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Search = <result context-3="211345" context-ui-effect="key-change" control-mode="classic" />
+Replace = <result context-3="211345" context-ui-effect="key-change" control-mode="classic" key-status="unpress" />
+Search = <result context-3="211345" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-3="211345" context-ui-effect="key-change" control-mode="bns" key-status="unpress" />
+Description = AR 1. DC: Pé Tún#3843.

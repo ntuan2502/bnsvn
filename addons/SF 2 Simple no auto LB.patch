@@ -1,0 +1,76 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_soulfighter_contextsimplemode.xml
+Search = context-3="182490"
+Replace = context-2="182490"
+Search = context-3="182491"
+Replace = context-2="182491"
+Search = context-3="182492"
+Replace = context-2="182492"
+Search = context-3="182493"
+Replace = context-2="182493"
+Search = context-3="182494"
+Replace = context-2="182494"
+
+Search = <result context-2="182490" context-ui-effect="event" control-mode="bns" />
+Replace = <result context-2="182490" context-ui-effect="event" control-mode="bns" /><result context-2="182490" context-ui-effect="event" control-mode="bns" /></decision></layer><layer><decision><condition skill="182414" /><result context-2="182414" context-ui-effect="event" control-mode="classic" /><result context-2="182414" context-ui-effect="event" control-mode="bns" /></decision><decision><condition skill="182413" /><result context-2="182413" context-ui-effect="event" control-mode="classic" /><result context-2="182413" context-ui-effect="event" control-mode="bns" /></decision><decision><condition skill="182412" /><result context-2="182412" context-ui-effect="event" control-mode="classic" /><result context-2="182412" context-ui-effect="event" control-mode="bns" /></decision><decision><condition skill="182411" /><result context-2="182411" context-ui-effect="event" control-mode="classic" /><result context-2="182411" context-ui-effect="event" control-mode="bns" /></decision><decision>  <condition skill="182410" /><result context-2="182410" control-mode="classic" /><result context-2="182410" control-mode="bns" />
+
+Search = context-3="181400"
+Replace = context-2="181400"
+Search = context-3="182400"
+Replace = context-2="182400"
+Search = context-3="182401"
+Replace = context-2="182401"
+
+Search = <result context-2="182120" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="182120" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="182120" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="182120" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <result context-2="181444" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="181444" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="181444" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="181444" context-ui-effect="event" control-mode="bns" /> -->
+Search = <result context-2="181443" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="181443" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="181443" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="181443" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <result context-2="181089" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="181089" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="181089" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="181089" context-ui-effect="event" control-mode="bns" /> -->
+Search = <result context-2="181088" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="181088" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="181088" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="181088" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <result context-2="181084" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="181084" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="181084" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="181084" context-ui-effect="event" control-mode="bns" /> -->
+Search = <result context-2="181083" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="181083" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="181083" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="181083" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <result control-mode="classic" skillbar-8="182120" skillbar-ui-effect="event" />
+Replace = <result control-mode="classic" skillbar-8="182120" skillbar-ui-effect="event" key-status="unpress" />
+Search = <result control-mode="bns" skillbar-8="182120" skillbar-ui-effect="event" />
+Replace = <result control-mode="bns" skillbar-8="182120" skillbar-ui-effect="event" key-status="unpress" />
+
+Search = <result context-2="182180" control-mode="classic" />
+Replace = <result context-1="182180" control-mode="classic" />
+Search = <result context-2="182180" control-mode="bns" />
+Replace = <result context-1="182180" control-mode="bns" />
+
+Search = <result context-2="182181" control-mode="classic" />
+Replace = <result context-1="182181" control-mode="classic" />
+Search = <result context-2="182181" control-mode="bns" />
+Replace = <result context-1="182181" control-mode="bns" />
+
+Search = <result context-2="182210" control-mode="classic" />
+Replace = <result context-1="182210" control-mode="classic" />
+Search = <result context-2="182210" control-mode="bns" />
+Replace = <result context-1="182210" control-mode="bns" />
+
+
+Description = Places Glacial blast from F to RMB, V to RMB, Ice helix from F to RMB, auto V, LB

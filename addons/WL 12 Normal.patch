@@ -1,0 +1,14 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_warlock.xml
+
+Search = skillbar-2="170120"
+Replace = skillbar-5="170120"
+Search = skillbar-2="170121"
+Replace = skillbar-5="170121"
+Search = skillbar-2="170122"
+Replace = skillbar-5="170122"
+Search = skillbar-2="170123"
+Replace = skillbar-5="170123"
+Search = skillbar-2="170124"
+Replace = skillbar-5="170124"
+
+Description = 2 to Z. DC: Pé Tún#3843

@@ -1,0 +1,57 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster_contextsimplemode.xml
+
+Search = <condition skill="101321" />
+Replace = <!-- <condition skill="101321" /> -->
+Search = <result context-2="101321" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="101321" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="101321" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="101321" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <condition skill="101290" />
+Replace = <!-- <condition skill="101290" /> -->
+Search = <result context-2="101290" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="101290" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="101290" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="101290" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <condition skill="101361" />
+Replace = <!-- <condition skill="101361" /> -->
+Search = <result context-2="101361" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="101361" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="101361" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="101361" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <result context-2="101050" control-mode="bns" />
+Replace = <result context-2="101050" control-mode="bns" /></decision></layer> <layer> <decision> <condition skill="101251" /> <result context-2="101251" context-ui-effect="event" control-mode="classic" /> <result context-2="101251" context-ui-effect="event" control-mode="bns" /></decision></layer> <layer> <decision> <condition skill="101250" /> <result context-2="101250" context-ui-effect="event" control-mode="classic" /> <result context-2="101250" context-ui-effect="event" control-mode="bns" />
+
+Search = <condition skill="102190" />
+Replace = <!-- <condition skill="102190" /> -->
+Search = <result context-2="102190" context-ui-effect="event" control-mode="classic" />
+Replace = <!-- <result context-2="102190" context-ui-effect="event" control-mode="classic" /> -->
+Search = <result context-2="102190" context-ui-effect="event" control-mode="bns" />
+Replace = <!-- <result context-2="102190" context-ui-effect="event" control-mode="bns" /> -->
+
+Search = <result context-2="102151" context-ui-effect="key-change" control-mode="bns" />
+Replace = <result context-2="102151" context-ui-effect="key-change" control-mode="bns" /></decision></layer> <layer> <decision> <condition skill="102210" /> <result context-2="102210" context-ui-effect="event" control-mode="classic" /> <result context-2="102210" context-ui-effect="event" control-mode="bns" />
+
+Search = <condition skill="103210" />
+Replace = <condition skill="103030" /> <result context-2="103030" context-ui-effect="event" control-mode="classic" /> <result context-2="103030" context-ui-effect="event" control-mode="bns" /></decision></layer> <layer> <decision> <condition skill="103310" /> <result context-2="103310" context-ui-effect="event" control-mode="classic" /> <result context-2="103310" context-ui-effect="event" control-mode="bns" /></decision></layer> <layer> <decision> <condition skill="103210" />
+
+Search = <condition skill="103513" />
+Replace = <!-- <condition skill="103513" /> -->
+Search = <result context-2="103513" control-mode="classic" />
+Replace = <!-- <result context-2="103513" control-mode="classic" /> -->
+Search = <result context-2="103513" control-mode="bns" />
+Replace = <!-- <result context-2="103513" control-mode="bns" /> -->
+
+Search = <condition skill="103493" />
+Replace = <!-- <condition skill="103493" /> -->
+Search = <result context-2="103493" control-mode="classic" />
+Replace = <!-- <result context-2="103493" control-mode="classic" /> -->
+Search = <result context-2="103493" control-mode="bns" />
+Replace = <!-- <result context-2="103493" control-mode="bns" /> -->
+
+Search = context-2="103480"
+Replace = stance="103480"
+
+Description = Loại bỏ X, C, V, thêm Z sau RB với BM Lửa, Z sau Tab với BM Sét, LB trước F với BM Ngự kiếm, loại bỏ thức thứ 4 RB của BM Vô Danh Kiếm/Vô Danh Kiếm Tối Thượng, thêm Triển Khai vào SF3, Ngự kiếm phi tán tự dùng. DC: Pé Tún#3843

@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="retry-button-cool-time" value="5.0" />
+Replace = <option name="retry-button-cool-time" value="0.0" />
+Description = Vô hiệu hóa thời gian hồi chiêu trong phòng tập Hồng Môn

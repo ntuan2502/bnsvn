@@ -1,0 +1,16 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="show-effect-only-info" value="n" />
+Replace = <option name="show-effect-only-info" value="y" />
+Search = <option name="showtype-public-zone" value="0" />
+Replace = <option name="showtype-public-zone" value="2" />
+Search = <option name="showtype-party-6-dungeon-and-cave" value="1" />
+Replace = <option name="showtype-party-6-dungeon-and-cave" value="2" />
+Search = <option name="showtype-field-zone" value="0" />
+Replace = <option name="showtype-field-zone" value="2" />
+Search = <option name="showtype-classic-field-zone" value="0" />
+Replace = <option name="showtype-classic-field-zone" value="2" />
+Search = <option name="showtype-faction-battle-field-zone" value="0" />
+Replace = <option name="showtype-faction-battle-field-zone" value="2" />
+Search = <option name="showtype-jackpot-boss-zone" value="0" />
+Replace = <option name="showtype-jackpot-boss-zone" value="2" />
+Description = Hiển thị bảng DPS

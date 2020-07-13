@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="use-optimal-performance-mode-option" value="false" />
+Replace = <option name="use-optimal-performance-mode-option" value="true" />
+Description = Hiển thị chế độ tối ưu hóa

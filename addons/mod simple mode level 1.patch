@@ -1,0 +1,4 @@
+FileName = config[bit].dat.files\\system.config2.xml
+Search = <option name="use-context-simple-mode-player-character-level" value="50" />
+Replace = <option name="use-context-simple-mode-player-character-level" value="1" />
+Description = Đơn giản hóa chiến đấu (SF3) có sẵn ở cấp 1

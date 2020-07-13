@@ -1,0 +1,4 @@
+FileName = config[bit].dat.files\\system.config2.xml
+Search = <option name="show-clause" value="true" />
+Replace = <option name="show-clause" value="false" />
+Description = Disable EULA on startup

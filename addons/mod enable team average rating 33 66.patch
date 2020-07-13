@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="use-team-average-score" value="false" />
+Replace = <option name="use-team-average-score" value="true" />
+Description = Hiển thị xếp hạng đội trung bình trong 3v3 và 6v6

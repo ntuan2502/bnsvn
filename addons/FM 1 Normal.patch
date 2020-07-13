@@ -1,0 +1,13 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_forcemaster.xml
+
+Search = <result control-mode="classic" skillbar-6="131161" skillbar-ui-effect="combo" />
+Replace = <result control-mode="classic" skillbar-6="131161" context-ui-effect="key-change" key-status="unpress" />
+Search = <result control-mode="bns" skillbar-6="131161" skillbar-ui-effect="combo" />
+Replace = <result control-mode="bns" skillbar-6="131161" context-ui-effect="key-change" key-status="unpress" />
+
+Search = <result control-mode="classic" skillbar-6="131162" skillbar-ui-effect="event" />
+Replace = <result control-mode="classic" sskillbar-6="131162" context-ui-effect="key-change" key-status="unpress" />
+Search = <result control-mode="bns" skillbar-6="131162" skillbar-ui-effect="event" />
+Replace = <result control-mode="bns" skillbar-6="131162" context-ui-effect="key-change" key-status="unpress" />
+
+Description = FM 1. DC: Pé Tún#1600

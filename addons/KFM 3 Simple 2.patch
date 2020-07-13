@@ -1,0 +1,176 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_kungfufighter_contextsimplemode.xml
+Search = <result context-1="113000" context-ui-effect="key-change" control-mode="bns" />
+Replace = <!-- <result context-1="113000" context-ui-effect="key-change" control-mode="bns" /> -->
+Search = <result context-2="113000" control-mode="bns" />
+Replace = <result context-1="113000" control-mode="bns" />
+Search = <result context-2="113001" control-mode="bns" />
+Replace = <result context-1="113001" control-mode="bns" />
+Search = <result context-2="113010" control-mode="bns" />
+Replace = <result context-1="113010" control-mode="bns" />
+Search = <result context-2="113011" control-mode="bns" />
+Replace = <result context-1="113011" control-mode="bns" />
+Search = <result context-2="113020" control-mode="bns" />
+Replace = <result context-1="113020" control-mode="bns" />
+Search = <result context-2="113720" control-mode="bns" />
+Replace = <result context-1="113720" control-mode="bns" />
+Search = <result control-mode="bns" skillbar-2="113400" />
+Replace = <result control-mode="bns" context-2="113400" />
+Search = <result stance="113640" context-ui-effect="key-change" control-mode="bns" />
+Replace = <!-- <result stance="113640" context-ui-effect="key-change" control-mode="bns" /> -->
+Search = <result cmd-key-down="113490" cmd-key-left="113411" cmd-key-right="113420" context-1="113001" context-2="113011" control-mode="bns" skillbar-1="113310" skillbar-2="113400" skillbar-3="113320" skillbar-4="113040" skillbar-5="113440" skillbar-6="113050" skillbar-7="113470" skillbar-8="113055" stance="113260" />
+Replace = <result cmd-key-down="113490" cmd-key-left="113411" cmd-key-right="113420" context-1="113001" context-2="113400" control-mode="bns" skillbar-1="113310" skillbar-2="113640" skillbar-3="113320" skillbar-4="113040" skillbar-5="113440" skillbar-6="113050" skillbar-7="113470" skillbar-8="113055" stance="113260" />
+Search = <result cmd-key-down="113490" cmd-key-left="113411" cmd-key-right="113420" context-1="113001" context-2="113011" control-mode="bns" skillbar-1="113240" skillbar-2="113400" skillbar-3="113320" skillbar-4="113230" skillbar-5="113221" skillbar-6="113222" skillbar-7="113223" skillbar-8="113220" stance="113260" />
+Replace = <result cmd-key-down="113490" cmd-key-left="113411" cmd-key-right="113420" context-1="113001" context-2="113400" control-mode="bns" skillbar-1="113240" skillbar-2="113640" skillbar-3="113320" skillbar-4="113230" skillbar-5="113221" skillbar-6="113222" skillbar-7="113223" skillbar-8="113220" stance="113260" />
+Search = <result control-mode="bns" skillbar-2="113390" />
+Replace = <!-- <result control-mode="bns" skillbar-2="113390" /> -->
+Search = <result control-mode="bns" skillbar-2="113380" />
+Replace = <result control-mode="bns" context-2="113380" /></decision></layer><layer><decision><condition skill="113390" /><result control-mode="bns" context-2="113390" />
+Search = <result control-mode="bns" skillbar-2="113381" />
+Replace = <result control-mode="bns" context-2="113381" />
+Search = <result control-mode="bns" skillbar-2="113370" />
+Replace = <result control-mode="bns" context-2="113370" />
+Search = <result control-mode="bns" skillbar-2="113360" />
+Replace = <result control-mode="bns" context-2="113360" />
+Search = <result control-mode="bns" skillbar-2="113350" />
+Replace = <result control-mode="bns" context-2="113350" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113650" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113650" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113651" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113651" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113652" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113652" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113662" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113662" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113661" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113661" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113660" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113660" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113772" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113772" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113771" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113771" />
+Search = <result context-ui-effect="key-change" control-mode="bns" skillbar-8="113770" />
+Replace = <result context-ui-effect="key-change" control-mode="bns" skillbar-2="113770" />
+Search = <result control-mode="bns" skillbar-1="113240" />
+Replace = <result control-mode="bns" skillbar-1="113240" /></decision></layer><layer><decision><condition skill="113652" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113652" /></decision></layer><layer><decision><condition skill="113651" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113651" /></decision></layer><layer><decision><condition skill="113650" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113650" /></decision></layer><layer><decision><condition skill="113662" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113662" /></decision></layer><layer><decision><condition skill="113661" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113661" /></decision></layer><layer><decision><condition skill="113660" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113660" /></decision></layer><layer><decision><condition skill="113772" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113772" /></decision></layer><layer><decision><condition skill="113771" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113771" /></decision></layer><layer><decision><condition skill="113770" /><result context-ui-effect="key-change" control-mode="bns" skillbar-2="113770" />
+Search = <result context-2="113156" control-mode="bns" />
+Replace = <result context-1="113156" control-mode="bns" />
+Search = <result context-2="113157" control-mode="bns" />
+Replace = <result context-1="113157" control-mode="bns" />
+Search = <result context-2="113158" control-mode="bns" />
+Replace = <result context-1="113158" control-mode="bns" />
+Search = <result context-2="113750" control-mode="bns" />
+Replace = <result context-1="113750" control-mode="bns" />
+Search = <result context-2="113140" control-mode="bns" />
+Replace = <result context-1="113140" control-mode="bns" />
+Search = <result context-2="113141" control-mode="bns" />
+Replace = <result context-1="113141" control-mode="bns" />
+Search = <result context-2="113142" control-mode="bns" />
+Replace = <result context-1="113142" control-mode="bns" />
+Search = <result context-2="113143" control-mode="bns" />
+Replace = <result context-1="113143" control-mode="bns" />
+Search = <result context-2="113144" control-mode="bns" />
+Replace = <result context-1="113144" control-mode="bns" />
+Search = <result context-2="113145" control-mode="bns" />
+Replace = <result context-1="113145" control-mode="bns" />
+Search = <result context-2="113153" control-mode="bns" />
+Replace = <result context-1="113153" control-mode="bns" />
+Search = <result context-2="113152" control-mode="bns" />
+Replace = <result context-1="113152" control-mode="bns" />
+Search = <result context-2="113151" control-mode="bns" />
+Replace = <result context-1="113151" control-mode="bns" />
+Search = <result context-2="113150" control-mode="bns" />
+Replace = <result context-1="113150" control-mode="bns" />
+Search = <result context-2="113149" control-mode="bns" />
+Replace = <result context-1="113149" control-mode="bns" />
+Search = <result context-2="113148" control-mode="bns" />
+Replace = <result context-1="113148" control-mode="bns" />
+Search = <result context-2="113730" control-mode="bns" />
+Replace = <result context-1="113730" control-mode="bns" />
+Search = <result context-2="113731" control-mode="bns" />
+Replace = <result context-1="113731" control-mode="bns" />
+Search = <result context-2="113733" control-mode="bns" />
+Replace = <result context-1="113733" control-mode="bns" />
+Search = <result context-2="113734" control-mode="bns" />
+Replace = <result context-1="113734" control-mode="bns" />
+Search = <result context-2="113736" control-mode="bns" />
+Replace = <result context-1="113736" control-mode="bns" />
+Search = <result context-2="113737" control-mode="bns" />
+Replace = <result context-1="113737" control-mode="bns" />
+Search = <result context-2="113747" control-mode="bns" />
+Replace = <result context-1="113747" control-mode="bns" />
+Search = <result context-2="113746" control-mode="bns" />
+Replace = <result context-1="113746" control-mode="bns" />
+Search = <result context-2="113744" control-mode="bns" />
+Replace = <result context-1="113744" control-mode="bns" />
+Search = <result context-2="113743" control-mode="bns" />
+Replace = <result context-1="113743" control-mode="bns" />
+Search = <result context-2="113741" control-mode="bns" />
+Replace = <result context-1="113741" control-mode="bns" />
+Search = <result context-2="113740" control-mode="bns" />
+Replace = <result context-1="113740" control-mode="bns" />
+Search = <result control-mode="bns" skillbar-1="113100" skillbar-2="113090" skillbar-3="113130" skillbar-4="113120" />
+Replace = <result control-mode="bns" skillbar-1="113100" context-2="113090" skillbar-3="113130" skillbar-2="113120" />
+Search = <result control-mode="bns" skillbar-2="113090" />
+Replace = <result control-mode="bns" context-2="113090" />
+Search = <result control-mode="bns" skillbar-4="113120" />
+Replace = <result control-mode="bns" skillbar-2="113120" />
+Search = <result control-mode="bns" skillbar-8="113068" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113068" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113067" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113067" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113066" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113066" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113065" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113065" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113064" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113064" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113063" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113063" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113062" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113062" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113061" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113061" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113060" skillbar-ui-effect="key-change" />
+Replace = <result control-mode="bns" context-1="113060" skillbar-ui-effect="key-change" />
+Search = <result control-mode="bns" skillbar-8="113190" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113190" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113580" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113580" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113585" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113585" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113590" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113590" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113600" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113600" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113605" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113605" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113200" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113200" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113610" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113610" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" skillbar-8="113615" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113615" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113620" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113620" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113630" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113630" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113635" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113635" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113210" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113210" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113670" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113670" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113675" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113675" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113680" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113680" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113690" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113690" skillbar-ui-effect="immune-break" /> -->
+Search = <result control-mode="bns" skillbar-8="113695" skillbar-ui-effect="immune-break" />
+Replace = <!-- <result control-mode="bns" skillbar-8="113695" skillbar-ui-effect="immune-break" /> --> 
+Search = <result control-mode="bns" special-2="111440" special-ui-effect="event" />
+Replace = <result control-mode="bns" special-2="111440" special-ui-effect="event" /></decision></layer><layer><decision><condition skill="113190" /><result control-mode="bns" context-1="113190" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113580" /><result control-mode="bns" context-1="113580" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113585" /><result control-mode="bns" context-1="113585" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113590" /><result control-mode="bns" context-1="113590" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113600" /><result control-mode="bns" context-1="113600" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113605" /><result control-mode="bns" context-1="113605" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113200" /><result control-mode="bns" context-1="113200" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113610" /><result control-mode="bns" context-1="113610" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113615" /><result control-mode="bns" context-1="113615" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113620" /><result control-mode="bns" context-1="113620" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113630" /><result control-mode="bns" context-1="113630" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113635" /><result control-mode="bns" context-1="113635" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113210" /><result control-mode="bns" context-1="113210" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113670" /><result control-mode="bns" context-1="113670" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113675" /><result control-mode="bns" context-1="113675" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113680" /><result control-mode="bns" context-1="113680" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113690" /><result control-mode="bns" context-1="113690" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113695" /><result control-mode="bns" context-1="113695" skillbar-ui-effect="immune-break" />
+Search = <result cmd-key-right="113421" control-mode="bns" />
+Replace = <result cmd-key-right="113421" control-mode="bns" /></decision></layer><layer><decision><condition skill="113190" /><result control-mode="bns" context-1="113190" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113580" /><result control-mode="bns" context-1="113580" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113585" /><result control-mode="bns" context-1="113585" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113590" /><result control-mode="bns" context-1="113590" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113600" /><result control-mode="bns" context-1="113600" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113605" /><result control-mode="bns" context-1="113605" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113200" /><result control-mode="bns" context-1="113200" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113610" /><result control-mode="bns" context-1="113610" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113615" /><result control-mode="bns" context-1="113615" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113620" /><result control-mode="bns" context-1="113620" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113630" /><result control-mode="bns" context-1="113630" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113635" /><result control-mode="bns" context-1="113635" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113210" /><result control-mode="bns" context-1="113210" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113670" /><result control-mode="bns" context-1="113670" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113675" /><result control-mode="bns" context-1="113675" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113680" /><result control-mode="bns" context-1="113680" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113690" /><result control-mode="bns" context-1="113690" skillbar-ui-effect="immune-break" /></decision></layer><layer><decision><condition skill="113695" /><result control-mode="bns" context-1="113695" skillbar-ui-effect="immune-break" />
+Description = KFM WOLF SIMP skill changes made by : Exora#3932

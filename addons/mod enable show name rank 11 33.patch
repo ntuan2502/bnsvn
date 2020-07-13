@@ -1,0 +1,4 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+Search = <option name="hidden-pc-name-rating" value="160000" />
+Replace = <option name="hidden-pc-name-rating" value="0" />
+Description = Hiển thị tên của đối thủ dưới 1600 điểm (1v1 và 3v3)

@@ -1,0 +1,77 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_forcemaster_contextsimplemode.xml
+
+Search = context-3="131030" control-mode="classic" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131150" skillbar-6="131170" skillbar-7="131190" skillbar-8="131210" stance="131230"
+Replace = context-3="131250" control-mode="classic" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131150" skillbar-6="131140" skillbar-7="131190" skillbar-8="131210" stance="131220"
+Search = context-3="131030" control-mode="bns" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131150" skillbar-6="131170" skillbar-7="131190" skillbar-8="131210" stance="131230"
+Replace = context-3="131250" control-mode="bns" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131150" skillbar-6="131140" skillbar-7="131190" skillbar-8="131210" stance="131220"
+
+Search = context-3="131030" control-mode="classic" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131140" skillbar-6="131160" skillbar-7="131250" skillbar-8="131200" stance="131220"
+Replace = context-3="131250" control-mode="classic" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131150" skillbar-6="131140" skillbar-7="131190" skillbar-8="131210" stance="131220"
+Search = context-3="131030" control-mode="bns" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131140" skillbar-6="131160" skillbar-7="131250" skillbar-8="131200" stance="131220"
+Replace = context-3="131250" control-mode="bns" skillbar-1="131040" skillbar-2="131070" skillbar-3="131080" skillbar-4="131090" skillbar-5="131150" skillbar-6="131140" skillbar-7="131190" skillbar-8="131210" stance="131220"
+
+Search = skillbar-2="131070"
+Replace = skillbar-2="131230"
+Search = skillbar-2="131071"
+Replace = skillbar-2="131230"
+Search = skillbar-2="131072"
+Replace = skillbar-2="131230"
+Search = skillbar-2="131073"
+Replace = skillbar-2="131230"
+
+Search = skillbar-2="131060"
+Replace = skillbar-2="131230"
+
+Search = stance="131230"
+Replace = stance="131220"
+
+
+Search = <result control-mode="classic" skillbar-5="131140" />
+Replace = <result control-mode="classic" skillbar-6="131140" />
+Search = <result control-mode="bns" skillbar-5="131140" />
+Replace = <result control-mode="bns" skillbar-6="131140" />
+
+Search = <result control-mode="classic" skillbar-5="131141" />
+Replace = <result control-mode="classic" skillbar-6="131141" />
+Search = <result control-mode="bns" skillbar-5="131141" />
+Replace = <result control-mode="bns" skillbar-6="131141" />
+
+
+Search = <result control-mode="classic" skillbar-6="131161" skillbar-ui-effect="combo" />
+Replace = <result control-mode="classic" context-1="131161" context-ui-effect="key-change" key-status="unpress" />
+Search = <result control-mode="bns" skillbar-6="131161" skillbar-ui-effect="combo" />
+Replace = <result control-mode="bns" context-1="131161" context-ui-effect="key-change" key-status="unpress" />
+
+Search = <result control-mode="classic" skillbar-6="131162" skillbar-ui-effect="event" />
+Replace = <result control-mode="classic" context-1="131162" context-ui-effect="key-change" key-status="unpress" />
+Search = <result control-mode="bns" skillbar-6="131162" skillbar-ui-effect="event" />
+Replace = <result control-mode="bns" context-1="131162" context-ui-effect="key-change" key-status="unpress" />
+
+
+Search = <result context-2="131161" context-ui-effect="combo" control-mode="classic" />
+Replace = <result control-mode="classic" context-1="131161" context-ui-effect="key-change" key-status="unpress" />
+Search = <result context-2="131161" context-ui-effect="combo" control-mode="bns" />
+Replace = <result control-mode="bns" context-1="131161" context-ui-effect="key-change" key-status="unpress" />
+
+Search = <result context-2="131162" context-ui-effect="event" control-mode="classic" />
+Replace = <result control-mode="classic" context-1="131162" context-ui-effect="key-change" key-status="unpress" />
+Search = <result context-2="131162" context-ui-effect="event" control-mode="bns" />
+Replace = <result control-mode="bns" context-1="131162" context-ui-effect="key-change" key-status="unpress" />
+
+Search = context-1="131000"
+Replace = context-1="131160"
+
+Search = <condition skill="130003" skip-condition-move-check="y" skip-condition-target-check="y" />
+Replace = <condition skill="131170" />
+Search = <result control-mode="classic" special-2="130003" special-ui-effect="event" />
+Replace = <result control-mode="classic" special-2="131170" />
+Search = <result control-mode="bns" special-2="130003" special-ui-effect="event" />
+Replace = <result control-mode="bns" special-2="131170" />
+
+Search = <condition skill="131330" />
+Replace = <condition skill="131151" /><result control-mode="classic" skillbar-5="131151" stance-ui-effect="combo" /><result control-mode="bns" skillbar-5="131151" stance-ui-effect="combo" /></decision></layer><layer><decision><condition skill="131330" />
+
+Search = <result context-3="65013" control-mode="bns" skillbar-1="501" skillbar-2="501" skillbar-3="501" skillbar-4="501" skillbar-ui-effect="key-change" />
+Replace = <result context-3="65013" control-mode="bns" skillbar-1="501" skillbar-2="501" skillbar-3="501" skillbar-4="501" skillbar-ui-effect="key-change" /> </decision> </layer> <layer> <decision> <condition skill="131231" variation-id="5" /> <result cmd-key-double-left="501" cmd-key-double-right="501" cmd-key-down="131270" cmd-key-left="131300" cmd-key-right="131310" context-3="501" control-mode="classic" skillbar-1="131232" skillbar-2="501" skillbar-3="501" skillbar-4="501" skillbar-5="501" skillbar-6="501" skillbar-7="501" skillbar-8="501" stance="131231" stance-ui-effect="combo" /> <result cmd-key-double-left="501" cmd-key-double-right="501" cmd-key-down="131270" cmd-key-left="131300" cmd-key-right="131310" context-3="501" control-mode="bns" skillbar-1="131232" skillbar-2="501" skillbar-3="501" skillbar-4="501" skillbar-5="501" skillbar-6="501" skillbar-7="501" skillbar-8="501" stance="131231" stance-ui-effect="combo" />
+
+Description = FM 1. DC: Pé Tún#3843

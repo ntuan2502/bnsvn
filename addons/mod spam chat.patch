@@ -1,0 +1,8 @@
+FileName = xml[bit].dat.files\\client.config2.xml
+
+Search =  <option name="dungeon-party-search-rewrite-recycletime" value="60.0" />
+Replace = <option name="dungeon-party-search-rewrite-recycletime" value="30.0" />
+Search = <option name="use-sell-level-limit" value="16" />
+Replace = <option name="use-sell-level-limit" value="1" />
+
+Description = Thời gian tuyển team f8 từ 60s -> 30s, bán đồ lv1

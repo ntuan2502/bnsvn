@@ -1,0 +1,17 @@
+FileName = xml[bit].dat.files\\skill3_contextscriptdata_blademaster.xml
+
+Search = <condition skill="103513" />
+Replace = <!-- <condition skill="103513" /> -->
+Search = <result context-2="103513" control-mode="classic" />
+Replace = <!-- <result context-2="103513" control-mode="classic" /> -->
+Search = <result context-2="103513" control-mode="bns" />
+Replace = <!-- <result context-2="103513" control-mode="bns" /> -->
+
+Search = <condition skill="103493" />
+Replace = <!-- <condition skill="103493" /> -->
+Search = <result context-2="103493" control-mode="classic" />
+Replace = <!-- <result context-2="103493" control-mode="classic" /> -->
+Search = <result context-2="103493" control-mode="bns" />
+Replace = <!-- <result context-2="103493" control-mode="bns" /> -->
+
+Description = Loại bỏ thức thứ 4 RB của BM Ngự Kiếm: Vô Danh Kiếm/Vô Danh Kiếm Tối Thượng. DC: Pé Tún#3843
