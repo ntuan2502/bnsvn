@@ -1,14 +1,6 @@
 FileName = xml[bit].dat.files\\client.config2.xml
-Search = <option name="delay-postproc-time" value="3.000000" />
-Replace = <option name="delay-postproc-time" value="0.100000" />
-Search = <option name="delay-ui-time" value="5.000000" />
-Replace = <option name="delay-ui-time" value="0.100000" />
-Search = <option name="train-complete-delay-time" value="1.500000" />
-Replace = <option name="train-complete-delay-time" value="0.100000" />
-Search = <option name="decompose-complete-delay" value="0.001000" />
-Replace = <option name="decompose-complete-delay" value="0.00100" />
 Search = <option name="item-transform-progressing-particle-duration" value="3.0" />
 Replace = <option name="item-transform-progressing-particle-duration" value="0.1" />
-Search = <option name="self-restraint-gauge-time" value="2.000000" />
+Search = <option name="self-restraint-gauge-time" value="1.250000" />
 Replace = <option name="self-restraint-gauge-time" value="0.100000" />
 Description = Faster Upgrade, Skill Apply, Transmute, Open Boxes, and Salvage.
